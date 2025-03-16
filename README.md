@@ -1,4 +1,3 @@
-Wine Quality Prediction: An Overview
 Wine quality prediction is a machine learning task that aims to classify or predict the quality of wine based on its chemical properties. The WineQT dataset is commonly used for this purpose and includes various physicochemical attributes of red and white wines, along with quality ratings.
 
 Dataset Overview (WineQT)
